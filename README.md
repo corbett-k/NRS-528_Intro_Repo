@@ -4,6 +4,6 @@ I'm a 2nd year M.S. student in the Biological and Environmental Sciences program
 
 ![project_uav](https://user-images.githubusercontent.com/98616257/152409886-212846c5-16fc-4ef4-a4f0-b3ed73a5acca.jpg)
 
-Prior to arriving at URI in the Fall of 2020, I worked for six months in the Everglades on a long-term research project out of the University of Florida. In addition to performing the usual tasks of a field technician, I also acted as the defacto drone operator, collecting aerial imagery over extensive tree island colonies of wading birds.
+Prior to arriving at URI in the Fall of 2020, I worked in the Everglades for six months on a long-term research project run by the University of Florida. In addition to performing the usual tasks of a field technician, I was also the project's drone pilot, collecting aerial imagery over tree island colonies of wading birds (sometimes in the thousands).
 
 ![everglades_airboats](https://user-images.githubusercontent.com/98616257/152409923-78816965-67a2-4174-9551-30a7967bc23d.JPG)
